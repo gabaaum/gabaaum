@@ -23,5 +23,10 @@
      
      
      
-</div>
+</div> <br/>
+
+Me apaixonei por desenvolvimento comecei por front onde é a parte de entrada e com o tempo me apaixonei pela linguagem Java. Tenho uma ótima base
+em sintaxe basica e orientação a objetos.
+
+Email para contato: gabriel.mariano12@hotmail.com
 
