@@ -58,7 +58,7 @@ Aqui estão algumas das soluções que desenvolvi para resolver problemas reais:
 ### 📫 Contato
 Estou em busca de oportunidades onde eu possa aplicar automação inteligente e desenvolvimento para gerar eficiência. Vamos conversar?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([Seu_Link_do_LinkedIn_Aqui](https://www.linkedin.com/in/gabriel-mariano-8408a3145/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-mariano-8408a3145/]())
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabrielmariiano@gmail.com)
 
 
